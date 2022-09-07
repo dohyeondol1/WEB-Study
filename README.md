@@ -1,5 +1,5 @@
 # 1day-1commit
 하루 코딩 공부한거 올리기  
 잔디 심기의 장인이 될때까지  
-html : 1day ~ 7day  
+html : 1day ~ 8day  
 5day : 깜빡하고 20분 늦게 올려서 잔디 구멍남...
