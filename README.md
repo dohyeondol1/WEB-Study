@@ -4,4 +4,6 @@
 html tag : 1day ~ 9day  
 css : 11day ~ 12day  
 javascript : 10day, 13day ~ 14day  
+실습 : 7day, 15day  
+  
 5day : 20분 늦게 올림
