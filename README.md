@@ -3,7 +3,7 @@
 잔디 심기의 장인이 될때까지  
 <span style="color:red">html</span> : 1day ~ 9day  
 <span style="color:blue">css</span> : 11day ~ 12day  
-<span style="color:orange">javascript</span> : 10day, 13day ~ 14day, 15day  
+<span style="color:orange">javascript</span> : 10day, 13day ~ 14day, 16day ~ 17day
 실습 : 3day, 15day  
   
 5day : 20분 늦게 올림
