@@ -6,8 +6,8 @@
 2일 : html  9일 : html  16일 : js     23일 : js    30일 : js  
 3일 : 실습   10일 : js   17일 : js   24일 : css    31일 : js   
 4일 : html  11일 : css  18일 : js    25일 : 실습   32일 : 실습  
-5일 : html  12일 : css  19일 : js    26일 : js       33일 : js  
-6일 : html  13일 : js    20일 : js   27일 : js       34일 : js  
+5일 : html  12일 : css  19일 : js    26일 : js       33일 : js  
+6일 : html  13일 : js    20일 : js   27일 : js       34일 : js  
 7일 : html  14일 : js    21일 : js   28일 : 실습  
   
 5day : 20분 늦게 올림
