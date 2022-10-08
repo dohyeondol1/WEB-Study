@@ -1,8 +1,7 @@
-# 1day-1commit
-## 하루 코딩 공부한거 올리기  
--잔디 심기의 장인이 될때까지  
+# WEB STUDY
+## 웹 공부    
 
-1일 : html  8일 : html  15일 : 실습  22일 : css   29일 : js  
+1일 : html  8일 : html  15일 : 실습  22일 : css   29일 : js    36일 : js  
 2일 : html  9일 : html  16일 : js     23일 : js    30일 : js  
 3일 : 실습   10일 : js   17일 : js   24일 : css    31일 : js   
 4일 : html  11일 : css  18일 : js    25일 : 실습   32일 : 실습  
