@@ -1,0 +1,7 @@
+//padding, margin값 주는법
+margin: 10px;               //상하좌우 10px
+margin: 10px 20px;          //상하 20px, 좌우 10px
+margin: 10px 20px 15px 5px; //시계방향 상10 우20 하15 좌5
+
+//border 값 주는법
+border: 10px solid red; 
